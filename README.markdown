@@ -1,0 +1,13 @@
+# 24rhythms
+
+## Usage
+
+## Installation
+
+## Author
+
+* Kunihisa Matsuda (love_coke@mac.com)
+
+## Copyright
+
+Copyright (c) 2022 Kunihisa Matsuda (love_coke@mac.com)
