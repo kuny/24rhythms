@@ -5,7 +5,7 @@
   :depends-on ()
   :components ((:module "src"
                 :components
-                ((:file "main"))))
+                ((:file "24rhythms"))))
   :description ""
   :in-order-to ((test-op (test-op "24rhythms/tests"))))
 
